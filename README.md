@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Eli's GutHub Stats](https://github-readme-stats.vercel.app/api?username=eli-halych&theme=react&show_icons=true&show_owner)](https://github.com/eli-halych/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-halych&theme=react&hide=html,java&langs_count=8&layout=compact)](https://github.com/eli-halych/)
