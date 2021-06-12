@@ -6,6 +6,6 @@
 Hi, I'm a professional Software Developer from Poland.
 
 - 🔭 I’m currently working on open-sourced ONAP.org using Python & a variety of DevOps tools.
-- 🌱 I’m currently learning advanced Python & developing my web protfolio - [eli.dev](https://eli.dev/)
+- 🌱 I’m currently learning advanced Python & developing my web protfolio.
 - 👯 I’m looking to collaborate on autonomous cars/drones project, preferrably AI part.
 - 🌐 I'm fluent in 4 languages: English, Polish, Russian & Ukrainian.
