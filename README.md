@@ -3,9 +3,8 @@
 
 [![Eli's GutHub Stats](https://github-readme-stats.vercel.app/api?username=eli-halych&theme=react&show_icons=true&show_owner)](https://github.com/eli-halych/) [!
 
-Hi, I'm a professional Software Developer from Poland.
+Hi, I'm a professional AI/ML/Software Engineer from Europe 🇪🇺.
 
 - 🔭 I’m currently working on delivering AI solutions for businesses.
 - 🎢 I'm aspired to become an Expert AI Engineer & Architect.
-- 👯 I’m looking to collaborate on autonomous cars/drones project, preferrably AI part.
 - 🌐 I'm fluent in 3 languages: English (advanced), Polish (advanced), Ukrainian (native). Learning German (pre-intermediate).
